@@ -1,0 +1,112 @@
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Kandidattest.dll.config
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Kandidattest.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Kandidattest.pdb
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Antlr3.Runtime.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\EntityFramework.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\EntityFramework.SqlServer.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Google.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Web.Infrastructure.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Newtonsoft.Json.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Owin.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Helpers.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Mvc.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Optimization.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Razor.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.WebPages.Deployment.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.WebPages.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.WebPages.Razor.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\WebGrease.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Helpers.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Mvc.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Optimization.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.Razor.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.WebPages.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.WebPages.Deployment.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\System.Web.WebPages.Razor.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Newtonsoft.Json.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Antlr3.Runtime.pdb
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\EntityFramework.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\EntityFramework.SqlServer.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Google.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\obj\Debug\Kandidattest.dll
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\obj\Debug\Kandidattest.pdb
+D:\Prosjekt\Oxx Academy\Kandidattest\Kandidattest\obj\Debug\Kandidattest.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Kandidattest.dll.config
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Kandidattest.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Kandidattest.pdb
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Antlr3.Runtime.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\EntityFramework.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\EntityFramework.SqlServer.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Newtonsoft.Json.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Owin.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Helpers.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Mvc.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Optimization.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Razor.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.WebPages.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\WebGrease.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Helpers.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Mvc.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Optimization.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.Razor.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.WebPages.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Newtonsoft.Json.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Antlr3.Runtime.pdb
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\EntityFramework.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\EntityFramework.SqlServer.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\obj\Debug\Kandidattest.csprojAssemblyReference.cache
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\obj\Debug\Kandidattest.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\obj\Debug\Kandidattest.csproj.CopyComplete
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\obj\Debug\Kandidattest.dll
+C:\Users\Jeremiah\Desktop\oxx\Kandidattest\obj\Debug\Kandidattest.pdb

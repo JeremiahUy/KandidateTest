@@ -1,0 +1,26 @@
+/* line 4, ../global.scss */
+body .container-top-bar {
+  width: 100%;
+  background: #574F78;
+}
+/* line 9, ../global.scss */
+body .container-top-bar .top-bar {
+  max-width: 62.5em;
+  margin: 0 auto;
+  overflow: hidden;
+  height: 45px;
+  line-height: 45px;
+  position: relative;
+  background: #574F78;
+  margin-bottom: 0;
+}
+/* line 22, ../global.scss */
+body footer {
+  width: 100%;
+  background: #574F78;
+  z-index: 10;
+  color: #fff;
+  font-size: 0.875em;
+  padding-top: 20px;
+  height: 100px;
+}

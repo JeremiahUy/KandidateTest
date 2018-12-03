@@ -1,0 +1,31 @@
+body
+{
+	.container-top-bar
+	{
+		width: 100%;
+		background: #574F78;
+
+		.top-bar 
+		{
+			max-width: 62.5em;
+			margin: 0 auto;		
+			overflow: hidden;
+			height: 45px;
+			line-height: 45px;
+			position: relative;
+			background: #574F78;
+			margin-bottom: 0;
+		}
+	}
+
+	footer 
+	{
+		width: 100%;
+		background: #574F78;
+		z-index: 10;
+		color: #fff;
+		font-size: 0.875em;
+		padding-top: 20px;
+		height:100px;
+	}
+}

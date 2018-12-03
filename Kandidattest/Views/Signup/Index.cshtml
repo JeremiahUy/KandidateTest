@@ -1,0 +1,152 @@
+﻿@{
+    ViewBag.Title = "Default";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="large-12 columns">
+        <h1>Oxx Academy - Innmeldingsskjema</h1>
+        <p>
+            Dette er et fiktivt registreringsskjema hvor brukeren kan registrere seg. Under skjemaet er ulike oppgaver knyttet til skjemaet, hvor du får prøvd deg på litt forskjellige områder.
+            <br />
+            <form>
+                <div class="row">
+                    <div class="large-12 columns">
+                        <label>Fornavn</label>
+                        <input type="text" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-12 columns">
+                        <label>Etternavn</label>
+                        <input type="text" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-12 columns">
+                        <label>E-post</label>
+                        <input type="text" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="large-12 columns">
+                        <label>Fødselsnr (11 siffer)</label>
+                        <input type="text" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-12 columns">
+                        <label>Ja, jeg godtar vilkårene</label>
+                        <input id="checkboxTerms" type="checkbox">
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+
+                        <input type="button" value="Send inn" placeholder="large-4.columns" />
+                    </div>
+                </div>
+
+            </form>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="large-12 columns">
+        <div class="panel">
+            <br /><br /><br /><br /><br /><br />
+            <h2>Programmeringstest</h2>
+
+            <div class="row">
+                <div class="large-12 columns">
+
+                    <p>For å løse denne oppgaven trenger du Visual Studio 2013 eller nyere. Vi har benyttet Foundation som responsivt rammeverk i oppgaven, men også andre rammeverk kan benyttes. Vi har også benyttet SCSS i vårt utgangspunkt og installert Compass, men det er ikke et krav. </p>
+
+                    <p>En kan gjøre mye ut av oppgaven, men det viktigste her er at du viser at du behersker de ulike feltene. </p>
+                    <p>
+                        Du står helt fritt til å endre på HTML dersom det er hensiktsmessig.
+                    </p>
+                    <p>
+                        Du velger selv hvor mye tid du vil legge i oppgavene. 
+                        Vi ser heller at du bruker litt tid på hver oppgave enn at du bruker all tiden på en av dem. 
+                        Kommenter gjerne i koden hvordan du ville løst en av oppgavene så vi får en forståelse for hvordan du ville løst den.
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="large-12 columns">
+                    <h3>HTML/CSS</h3>
+                    <p>Vi har satt opp en veldig enkel side uten noe spesielt design. </p>
+                    <p>
+                        Vi ønsker at du ser litt på designet på siden, og at du implementerer en meny som består av 3 sider:
+                        <ul>
+                            <li>Registreringsskjema - Inneholder dette registreringsskjemaet</li>
+                            <li>Statistikk - Dette skal være en side brukeren kommer til idet han/hun har sendt inn skjema, se egen oppgave. Siden skal inneholde en kvittering dersom det er sendt inn skjema, samt noe statistikk.</li>
+                            <li>Oppgaven - Vi ønsker at du plasserer oppgaveteksten på denne siden.</li>
+                        </ul>
+                        Brukeren kan fritt bevege seg mellom de 3 sidene, men det er bare dersom han/hun har sendt inn et skjema at kvitteringen skal være en del av statistikksiden.
+                    </p>
+
+
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-12 columns">
+                    <h3>Sende inn skjema</h3>
+                    <p>
+                        I denne oppgaven vil vi at skal sende inn skjemaet via en webservice. Webservicen du skal implementere er http://kandidattestapi.oxx.no/ , og metoden du benytter til å sende inn skjemaet heter /SignupMembership/.
+                    </p>
+                    <p>I skjemaet har vi bedt brukeren til å fylle inn fødselsnr. Basert på fødselsnr kan en regne seg frem til fødselsdato, år og kjønn, og vi ønsker at du sender dette med i servicen sammen med resten av brukerinfo. I tillegg ønsker vi at du gjør en sjekk av kontrollsifrene (2 siste siffer i fødselsnr).  </p>
+                    <p>Du kan lese alt du trenger å vite om fødselsnr <a target="_blank" href="http://no.wikipedia.org/wiki/F%C3%B8dselsnummer">her. </a></p>
+
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-12 columns">
+                    <h3>Statistikk-/kvitteringsside</h3>
+                    <p>I denne oppgaven vil vi at du setter opp en side som viser statistikk over kandidater, samt setter opp en kvitteringsside.</p>
+
+                    <p>
+                        Statistikk kan du hente fra samme service som i forrige oppgave, fra metoden /Candidates/, og vi vil at du skal vise gjennomsnittet av kandidater mellom 21-30, 31-40 og 41 og oppover,
+
+                    </p>
+                    <p><strong>OBS! Servicen returnerer dummydata og blir ikke påvirket av innsendinger du har foretatt. </strong></p>
+                    <p>
+                        Statistikk-/kvitteringssiden er siden brukere blir sendt til etter å ha sendt inn et skjema. Det skal på toppen av siden derfor ligge en kvittering som sier følgende:
+                        <br />
+                    </p>
+                    <p style="font-style: italic">
+                        Hei [Navn], <br /> <br /> Takk for din innmelding. En kvittering blir om kort tid sendt til din e-post: [epost] <br /><br /> Ditt referansenummer er [MemberID].
+                    </p>
+                    <p>Kvitteringen er bare synlig dersom brukeren havnet på denne siden etter å ha sendt inn et skjema, og ikke dersom han navigerer seg hit gjennom menyen</p>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-12 columns">
+                    <h3>Javascript</h3>
+                    <p>I denne oppgaven vil vi at benytter javascript for å validere fødselsnr, telefonr og mobil, og så skal <strong>alle</strong> feltene være obligatoriske , og så ønsker vi at en ved å trykke på teksten "Ja, jeg godtar vilkårene" får opp en popup hvor vilkårene er ramset opp (benytt lorem ipsum tekst eller en annen fiktiv tekst).
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-12 columns">
+                    <strong>Lykke til!</strong>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+  
+</div>
+
+
+
