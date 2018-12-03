@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Kandidattest.Models.VMsnittalder>
+
+@{
+    ViewBag.Title = "statiskkAlder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="large-12 columns">
+        <h3>Statistikk</h3>
+
+
+        <p>
+            Gjennomsnittet av kandidater:
+        </p>
+        <p>
+            Mellom 21 og 30: @Html.DisplayNameFor(model => model.snitt21til30)
+        </p>
+        <p>
+            Mellom 31 og 40: @Html.DisplayNameFor(model => model.snitt31til40)
+        </p>
+        <p>
+            40 og oppover: @Html.DisplayNameFor(model => model.snitt40opp)
+        </p>
+
+    </div>
+</div>

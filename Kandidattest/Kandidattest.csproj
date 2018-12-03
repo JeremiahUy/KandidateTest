@@ -163,12 +163,16 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\KandidatWebService.cs" />
     <Compile Include="Controllers\OppgaveController.cs" />
     <Compile Include="Controllers\SignupController.cs" />
     <Compile Include="Controllers\StatistikkController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\DB.cs" />
+    <Compile Include="Models\DbInit.cs" />
+    <Compile Include="Models\VMcandidates.cs" />
     <Compile Include="Models\VMsignup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -235,11 +239,13 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Signup\Index.cshtml" />
+    <Content Include="Views\Statistikk\statiskkAlder.cshtml" />
+    <Content Include="Views\Statistikk\statiskkAldertest.cshtml" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\Images\" />
-    <Folder Include="Views\Statistikk\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

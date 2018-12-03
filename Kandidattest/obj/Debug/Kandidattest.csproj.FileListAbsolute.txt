@@ -166,3 +166,4 @@ C:\Users\Jeremiah\Desktop\KandidatTest\KandidateTest\Kandidattest\obj\Debug\Kand
 C:\Users\Jeremiah\Desktop\KandidatTest\KandidateTest\Kandidattest\obj\Debug\Kandidattest.csproj.CopyComplete
 C:\Users\Jeremiah\Desktop\KandidatTest\KandidateTest\Kandidattest\obj\Debug\Kandidattest.dll
 C:\Users\Jeremiah\Desktop\KandidatTest\KandidateTest\Kandidattest\obj\Debug\Kandidattest.pdb
+C:\Users\Jeremiah\Desktop\KandidatTest\KandidateTest\Kandidattest\obj\Debug\Kandidattest.csprojAssemblyReference.cache
